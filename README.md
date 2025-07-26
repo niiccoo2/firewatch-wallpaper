@@ -1,0 +1,1 @@
+This is a quick script that will set your wallpaper to a firewatch one matching the time of day.
